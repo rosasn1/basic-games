@@ -1,4 +1,5 @@
 const board = document.getElementById("chessboard");
+//TEST BRANCH CHANGE
 
 // Chess pieces (Unicode symbols)
 const pieces = {
@@ -88,3 +89,4 @@ function isValidMove(selected, row, col) {
 
 // Initialize the board
 drawBoard();
+
